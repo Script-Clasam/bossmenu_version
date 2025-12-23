@@ -1,0 +1,25 @@
+1.0.0 - 2025-12-23
+------------------
+  + Initial Release - Complete Boss Menu for VORP
+  + Multi-language support (EN/FR/TH)
+  + Modern NUI interface with responsive design
+  + Employee management (hire/fire/promote/demote)
+  + Grade system with customizable permissions
+  + Salary system with configurable intervals
+  + Company bank accounts (money & gold)
+  + Transaction history with filtering
+  + Discord webhook integration for logging
+  + Company storage/stash system (VORP Inventory)
+  + Slot purchase system with tiers
+  + Duty system (on/off duty toggle)
+  + Job offer popup system
+  + Bonus system for employees
+  + Avatar customization per employee
+  + Rate limiting & anti-cheat security
+  + Timezone configuration for international servers
+  + Grade caching system for performance
+  + Server exports for external scripts
+  + Admin commands (/syncgrades, /fixgrades, etc.)
+  + Configurable notification system (NUI/VORP)
+  + Last login tracking for employees
+  ! Requires: oxmysql, vorp_core, vorp_inventory
